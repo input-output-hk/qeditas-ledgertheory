@@ -3,19 +3,9 @@
 ## Ledger Theory Coq Development
 
 This repository contains a Coq development of a theory of lightweight cryptographic ledgers.
-The files should be compiled in the following order (see also the file coqcompile):
 
-Prelude.v
-Addrs.v
-CryptoHashes.v 
-CryptoSignatures.v 
-Assets.v
-Transactions.v
-LedgerStates.v
-MTrees.v
-CTrees.v
-CTreeGrafting.v
-Blocks.v
+    ./configure.sh
+    make
 
 ## White Paper
 
