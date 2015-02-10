@@ -1,6 +1,4 @@
-# ledgertheory
-
-## Ledger Theory Coq Development
+# Ledger Theory
 
 This repository contains a Coq development of a theory of lightweight cryptographic ledgers.
 
