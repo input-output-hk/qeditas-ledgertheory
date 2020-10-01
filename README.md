@@ -8,7 +8,7 @@ This repository contains a Coq development of a theory of lightweight cryptograp
 ## White Paper
 
 There is also a white paper lightcrypto.pdf providing a high level description and overview
-of what is here. More detailed descriptions of the various parts will hopefully be written soon.
+of what is here. More detailed descriptions of the various parts will hopefully be written as soon as possible.
 
 ## License
 
